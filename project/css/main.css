@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Vazir-FD';
+    direction: rtl;
+    cursor: pointer;
+}
+
+@font-face {
+    font-family:'Vazir-FD';
+    src: url('/project/fontt/woff/Vazir-FD.woff') format('woff');
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.main__container{
+    width: 27%;
+}
+.contant__main--start{
+    margin-top:5rem;
+    border: 1px solid #f0efef;
+    border-radius:6px;
+}
+.header--stick__logo{
+    display: flex;
+    justify-content: center;
+}
+.stick__logo{
+    margin: 1rem 0;
+    padding: 1rem 0;
+    width: 38%;
+}
+.text__head--stick{
+    margin: 1rem 1.5rem;
+}
+.text--login{
+    font-size: 1.4em;
+    font-weight: 600;
+
+}
+.text--nummber{
+    margin: .9rem;
+
+}
+.nummber--stick{
+    color: #727272;
+    font-size: .8em;
+    padding: .7rem .8rem;
+    
+}
+.input--nummber__main{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+   
+}
+.nummber--input{
+    width: 85%;
+    padding: .7rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 1rem 0;
+}
+.login__digi{
+    margin:1rem  auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+    height:8vh;
+    background: #ee0020cb;
+    border-radius: 9px;
+    
+
+}
+.login--click{
+    text-decoration: none;
+   font-size: 1em;
+   font-weight: 600;
+   color: #fff;
+}
+.text--footer{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    width: 70%;
+}
+.text__footer--end{
+    font-size: .7em;
+    text-align: center;
+    color: #727272;
+    margin-bottom: 1.5rem;
+}
