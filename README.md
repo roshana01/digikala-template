@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Preview][product-screenshot]](https://example.com)
 
 This project is a clone of digikala.com
 In this project, I coded the 
@@ -56,6 +56,12 @@ nothing need to run .
    ```sh
     index.html
    ```
+Or
+1. Open this link on your browser
+    ```sh
+    https://roshana01.github.io/digikala-template/
+    ```
+    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- contact -->
@@ -71,9 +77,9 @@ nothing need to run .
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- LINKS & IMAGES -->
 [project-logo]:https://www.digikala.com/statics/img/svg/logo.svg
-[product-screenshot]: digikala-preview.jpg
+[product-screenshot]: ./Readme-files/digikala-preview.jpg
 
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://instagram.com/roshanak_roshani01?igshid=NDk5N2NlZjQ=
